@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
@@ -150,3 +151,4 @@ A success message appears in the terminal:<br>
 ## Contact
 If you have any questions, please feel free to reach out via email: christian-schwanse (at) gmx.net
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
